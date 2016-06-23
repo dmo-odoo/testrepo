@@ -11,7 +11,6 @@
     'data': [],
     'installable': True,
     'auto_install': False,
-    'price': 50,
-    'currency': 'EUR',
+    'license': 'OEEL-1',
 }
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
