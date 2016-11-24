@@ -11,5 +11,6 @@
     'data': [],
     'installable': True,
     'auto_install': False,
+    'support': 'support@odoo.com',
 }
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
