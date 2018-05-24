@@ -7,7 +7,7 @@
     'author': 'OpenERP SA',
     'maintainer': 'OpenERP SA',
     'website': 'https://www.odoo.com',
-    'depends': ['base', 'fake_module_2'],
+    'depends': ['base'],
     'data': [],
     'installable': True,
     'auto_install': False,
